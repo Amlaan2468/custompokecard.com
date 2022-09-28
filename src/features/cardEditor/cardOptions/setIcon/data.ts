@@ -13,6 +13,14 @@ export const promo: SetIcon = {
   shape: 'square',
 };
 
+export const Amlaan: SetIcon = {
+  id: id++,
+  slug: 'Amlaan',
+  displayName: 'Amlaan',
+  baseSet: ssBaseSet.id,
+  shape: 'square',
+};
+
 export const swordAndShield: SetIcon = {
   id: id++,
   slug: 'swordAndShield',
